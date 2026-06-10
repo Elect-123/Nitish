@@ -35,20 +35,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
 <!-- PLECS -->
-<a href="https://www.plexim.com/plecs" target="_blank">
-<img src="https://img.shields.io/badge/PLECS-Simulation-blue?style=for-the-badge" />
+<a href="https://www.plexim.com/plecs" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PLECS_logo.png" alt="PLECS" width="40" height="40"/>
 </a>
 
-<!-- Altium -->
-<a href="https://www.altium.com/" target="_blank">
-<img src="https://img.shields.io/badge/Altium-PCB_Design-red?style=for-the-badge" />
+<!-- ALTIUM -->
+<a href="https://www.altium.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Altium_Designer_logo.png" alt="Altium Designer" width="40" height="40"/>
 </a>
 
-<!-- CCS -->
-<a href="https://www.ti.com/tool/CCSTUDIO" target="_blank">
-<img src="https://img.shields.io/badge/CCS-TI-orange?style=for-the-badge" />
+<!-- CCS v12 -->
+<a href="https://www.ti.com/tool/CCSTUDIO" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Texas_Instruments_logo.svg" alt="CCS v12" width="40" height="40"/>
 </a>
+
+</p>
 
 <p align="left">
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
