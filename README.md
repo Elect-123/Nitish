@@ -1,4 +1,4 @@
-```markdown
+
 ![logo](https://github.com/sandeeppandeyiitbhu/sandeeppandeyiitbhu/blob/main/power-systems-eng-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Nitish Raj</h1>
