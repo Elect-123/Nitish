@@ -35,16 +35,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<!-- PLECS -->
 <a href="https://www.plexim.com/plecs" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PLECS_logo.png" width="60"/>
+<img src="https://img.shields.io/badge/PLECS-Simulation-blue?style=for-the-badge" />
 </a>
 
+<!-- Altium -->
 <a href="https://www.altium.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Altium_Designer_logo.png" width="60"/>
+<img src="https://img.shields.io/badge/Altium-PCB_Design-red?style=for-the-badge" />
 </a>
 
+<!-- CCS -->
 <a href="https://www.ti.com/tool/CCSTUDIO" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Texas_Instruments_logo.svg" width="60"/>
+<img src="https://img.shields.io/badge/CCS-TI-orange?style=for-the-badge" />
 </a>
 
 <p align="left">
