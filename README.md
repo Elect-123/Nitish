@@ -35,6 +35,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<!-- PLECS -->
+<a href="https://www.plexim.com/plecs" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PLECS_logo.png" alt="PLECS" width="40" height="40"/>
+</a>
+
+<!-- Altium Designer -->
+<a href="https://www.altium.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Altium_Designer_logo.png" alt="Altium Designer" width="40" height="40"/>
+</a>
+
+<!-- Code Composer Studio (CCS v12) -->
+<a href="https://www.ti.com/tool/CCSTUDIO" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Texas_Instruments_logo.svg" alt="CCS v12" width="40" height="40"/>
+</a>
 
 <p align="left">
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
