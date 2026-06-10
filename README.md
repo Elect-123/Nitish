@@ -1,5 +1,5 @@
 
-![logo](https://github.com/sandeeppandeyiitbhu/sandeeppandeyiitbhu/blob/main/power_electronics_engg.jpg)
+![logo](https://raw.githubusercontent.com/Elect-123/Elect-123/main/power_electronics_engg.jpg)
 
 <h1 align="center">Hi 👋, I'm Nitish Raj</h1>
 <h3 align="center">Power Electronics Engineer | JRF at IIT Delhi | EV Chargers | High-Frequency Magnetics | MATLAB/Simulink</h3>
