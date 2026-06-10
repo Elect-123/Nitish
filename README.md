@@ -35,19 +35,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- PLECS -->
 <a href="https://www.plexim.com/plecs" target="_blank">
-<img src="https://img.shields.io/badge/PLECS-Software-blue?style=for-the-badge" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PLECS_logo.png" width="60"/>
 </a>
 
-<!-- Altium Designer -->
 <a href="https://www.altium.com/" target="_blank">
-<img src="https://img.shields.io/badge/Altium-Designer-red?style=for-the-badge" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Altium_Designer_logo.png" width="60"/>
 </a>
 
-<!-- Code Composer Studio (CCS v12) -->
 <a href="https://www.ti.com/tool/CCSTUDIO" target="_blank">
-<img src="https://img.shields.io/badge/Code_Composer_Studio-TI-blue?style=for-the-badge" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Texas_Instruments_logo.svg" width="60"/>
 </a>
 
 <p align="left">
