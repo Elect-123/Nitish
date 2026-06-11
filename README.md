@@ -64,7 +64,7 @@
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="excel.jfif" alt="cplusplus" width="40" height="40"/>
+<img src=excel.jfif alt="cplusplus" width="40" height="40"/>
 </a>
 </p>
 
