@@ -39,7 +39,7 @@
 
 <!-- PLECS -->
 <a href="https://www.plexim.com/plecs" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PLECS_logo.png" alt="PLECS" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PLECS_logo.png](https://www.google.com/search?q=PLECS+software+icon+&sca_esv=2a9cf1d07f23bfb1&rlz=1C1ONGR_enIN1054IN1054&udm=2&biw=1536&bih=703&sxsrf=ANbL-n7CSlgJvR0i7zttEIXa6dLAwEH8qQ%3A1781177498543&ei=mpwqasG7IMHF4-EP06vXiQg&ved=0ahUKEwjB8NOgi_-UAxXB4jgGHdPVNYEQ4dUDCBE&uact=5&oq=PLECS+software+icon+&gs_lp=Egtnd3Mtd2l6LWltZyIUUExFQ1Mgc29mdHdhcmUgaWNvbiBImbQBUMADWIipAXABeACQAQCYAfsBoAHsNaoBBjAuMzcuMrgBA8gBAPgBAZgCAaACtQHCAgcQIxjJAhgnmAMAiAYBkgcDMC4xoAeCBbIHAzAuMbgHtQHCBwMyLTHIBwaACAE&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLXRNazlQRjc2dDROaGpNMg50TWs5UEY3NnQ0TmhqTToOMnF3eGd2MDFpWGVlYk0gBCocCgZtb3NhaWMSEGUtdE1rOVBGNzZ0NE5oak0YADABGAcgm-3P1wtKCBABGAEgASgB" alt="PLECS" width="40" height="40"/>
 </a>
 
 <!-- ALTIUM -->
