@@ -49,7 +49,7 @@
 
 <!-- CCS v12 -->
 <a href="https://www.ti.com/tool/CCSTUDIO" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Texas_Instruments_logo.svg" alt="CCS v12" width="40" height="40"/>
+<img src=code-composer-studio.webp alt="CCS v12" width="40" height="40"/>
 </a>
 
 </p>
