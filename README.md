@@ -66,6 +66,7 @@
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
 <img src="excel.jfif" alt="Microsoft Excel" width="40" height="40"/>
 </a>
+href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a 
 </p>
 
 ## 🏆 Key Projects
