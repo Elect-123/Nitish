@@ -44,7 +44,7 @@
 
 <!-- ALTIUM -->
 <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-<img src=code-composer-studio.webp alt="Altium Designer" width="40" height="40"/>
+<img src=altium_logo.png alt="Altium Designer" width="40" height="40"/>
 </a>
 
 <!-- CCS v12 -->
